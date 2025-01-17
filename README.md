@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen&style=for-the-badge&logo=book)  
 ![Top Language](https://img.shields.io/static/v1?label=Top%20Language&message=Python&color=blue&style=for-the-badge&logo=python)  
 ![Last Commit](https://img.shields.io/static/v1?label=Last%20Commit&message=Today&color=orange&style=for-the-badge&logo=git)  
-![Views](https://img.shields.io/static/v1?label=Views&message=10k+&color=purple&style=for-the-badge&logo=eye) 
+
 
 ---
 
