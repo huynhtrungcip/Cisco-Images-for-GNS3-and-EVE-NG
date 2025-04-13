@@ -17,7 +17,7 @@
 
 Take your network simulation to new heights with this curated collection of images for GNS3 and EVE-NG. From routers and switches to firewalls, this repository provides the tools you need to build realistic virtual labs. Whether you're starting out or refining your expertise, this resource supports all your networking and cybersecurity practice needs.
 
-This project is a remix by **Trung Huynh Chi**, a third-year Cybersecurity student at Duy Tan University, in collaboration with Carnegie Mellon University, USA. Trung's hands-on experience as a Pentester Intern enriches this repository, ensuring it meets the evolving needs of the community.
+This project is a remix by **Trung Huynh Chi**, student Cybersecurity student at Duy Tan University, in collaboration with Carnegie Mellon University, USA. Trung's hands-on experience as a Pentester Intern enriches this repository, ensuring it meets the evolving needs of the community.
 
 If you find this repository helpful, don’t forget to ⭐ it and share it with others. Together, we can grow and succeed! 🌍
 ---
